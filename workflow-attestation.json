@@ -21,7 +21,7 @@
             "software": "sonarqube",
             "attestations": { 
                 "codeCoverage": 80,
-                "cyclomaticComplexit": 30 
+                "cyclomaticComplexity": 30 
             }
         }
     },
